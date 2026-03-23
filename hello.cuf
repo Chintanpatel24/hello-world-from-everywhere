@@ -1,0 +1,4 @@
+// Cuneiform - Hello World
+function main() {
+    print("Hello, World!");
+}

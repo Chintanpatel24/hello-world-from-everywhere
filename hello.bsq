@@ -1,0 +1,5 @@
+// Bosque - Hello World
+namespace NSMain;
+entrypoint function main(): any {
+    Console->write("Hello, World!");
+}

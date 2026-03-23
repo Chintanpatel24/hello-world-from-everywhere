@@ -1,0 +1,4 @@
+// Alpine - Hello World
+<div x-data="{ message: 'Hello, World!' }">
+    <span x-text="message"></span>
+</div>

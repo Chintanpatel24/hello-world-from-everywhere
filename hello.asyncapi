@@ -1,0 +1,11 @@
+asyncapi: 2.6.0
+info:
+  title: Hello API
+  version: 1.0.0
+channels:
+  hello:
+    publish:
+      message:
+        payload:
+          type: string
+          example: Hello, World!

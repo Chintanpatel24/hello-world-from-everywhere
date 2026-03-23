@@ -1,0 +1,8 @@
+// Avro Schema - Hello World
+{
+    "type": "record",
+    "name": "HelloWorld",
+    "fields": [
+        {"name": "message", "type": "string"}
+    ]
+}

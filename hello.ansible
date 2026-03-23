@@ -1,0 +1,4 @@
+# Ansible - Hello World
+- hosts: localhost
+  tasks:
+    - debug: msg="Hello, World!"

@@ -1,0 +1,2 @@
+// Deno - Hello World
+console.log("Hello, World!");

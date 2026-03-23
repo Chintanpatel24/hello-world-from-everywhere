@@ -1,0 +1,10 @@
+<!-- Blockly - Hello World -->
+<xml>
+    <block type="text_print">
+        <value name="TEXT">
+            <shadow type="text">
+                <field name="TEXT">Hello, World!</field>
+            </shadow>
+        </value>
+    </block>
+</xml>

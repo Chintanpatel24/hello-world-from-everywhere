@@ -1,0 +1,5 @@
+# Cargo.toml - Hello World
+[package]
+name = "hello-world"
+version = "1.0.0"
+edition = "2021"

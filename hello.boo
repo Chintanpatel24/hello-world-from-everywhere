@@ -1,0 +1,2 @@
+// Boo - Hello World
+print "Hello, World!"

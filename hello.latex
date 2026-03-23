@@ -1,0 +1,5 @@
+% LaTeX - Hello World
+\documentclass{article}
+\begin{document}
+Hello, World!
+\end{document}

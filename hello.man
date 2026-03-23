@@ -1,0 +1,7 @@
+.TH HELLO 1 "March 2026" "Hello World Manual"
+.SH NAME
+hello \- print Hello, World!
+.SH SYNOPSIS
+.B hello
+.SH DESCRIPTION
+Prints "Hello, World!" to standard output.

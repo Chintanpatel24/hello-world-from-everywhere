@@ -1,0 +1,4 @@
+// Processing.js - Hello World
+function setup() {
+    println("Hello, World!");
+}

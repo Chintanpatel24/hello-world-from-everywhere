@@ -1,0 +1,5 @@
+// Preact - Hello World
+import { h } from 'preact';
+function HelloWorld() {
+    return <h1>Hello, World!</h1>;
+}

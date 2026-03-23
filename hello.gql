@@ -1,0 +1,4 @@
+# GraphQL Query - Hello World
+query {
+    hello
+}

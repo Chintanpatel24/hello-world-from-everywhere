@@ -1,0 +1,4 @@
+// Petite-Vue - Hello World
+<div v-scope="{ message: 'Hello, World!' }">
+    {{ message }}
+</div>

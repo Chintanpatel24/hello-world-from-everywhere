@@ -1,0 +1,5 @@
+// Solid - Hello World
+import { createSignal } from 'solid-js';
+function HelloWorld() {
+    return <h1>Hello, World!</h1>;
+}

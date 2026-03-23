@@ -1,0 +1,3 @@
+// RxJS - Hello World
+import { of } from 'rxjs';
+of('Hello, World!').subscribe(console.log);

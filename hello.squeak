@@ -1,0 +1,2 @@
+// Squeak - Hello World
+Transcript show: 'Hello, World!'; cr.

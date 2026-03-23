@@ -1,0 +1,6 @@
+# Ruby on Rails - Hello World
+class HelloController < ApplicationController
+  def index
+    render plain: "Hello, World!"
+  end
+end

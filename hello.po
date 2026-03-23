@@ -1,0 +1,7 @@
+# gettext PO - Hello World
+msgid ""
+msgstr ""
+"Content-Type: text/plain; charset=UTF-8\n"
+
+msgid "Hello, World!"
+msgstr "Hello, World!"

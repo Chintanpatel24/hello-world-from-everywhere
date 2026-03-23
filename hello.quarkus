@@ -1,0 +1,8 @@
+// Quarkus - Hello World
+import javax.ws.rs.GET;
+import javax.ws.rs.Path;
+@Path("/")
+class HelloResource {
+    @GET
+    fun hello(): String = "Hello, World!"
+}

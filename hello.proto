@@ -1,0 +1,5 @@
+// Protocol Buffers - Hello World
+syntax = "proto3";
+message HelloResponse {
+    string message = 1;
+}

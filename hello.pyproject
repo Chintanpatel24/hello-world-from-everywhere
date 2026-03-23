@@ -1,0 +1,4 @@
+# Python pyproject.toml - Hello World
+[project]
+name = "hello-world"
+version = "1.0.0"

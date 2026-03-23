@@ -1,0 +1,5 @@
+// Pascal (modern) - Hello World
+program HelloWorld;
+begin
+    WriteLn('Hello, World!');
+end.

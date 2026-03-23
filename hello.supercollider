@@ -1,0 +1,2 @@
+// SuperCollider - Hello World
+"Hello, World!".postln;

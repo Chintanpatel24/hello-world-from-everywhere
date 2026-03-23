@@ -1,0 +1,14 @@
+<?xml version="1.0"?>
+<definitions xmlns="http://schemas.xmlsoap.org/wsdl/"
+             targetNamespace="http://example.com/hello">
+    <message name="HelloRequest"/>
+    <message name="HelloResponse">
+        <part name="message" type="xsd:string"/>
+    </message>
+    <portType name="HelloPortType">
+        <operation name="sayHello">
+            <input message="tns:HelloRequest"/>
+            <output message="tns:HelloResponse"/>
+        </operation>
+    </portType>
+</definitions>

@@ -1,0 +1,4 @@
+# Terraform - Hello World
+output "hello" {
+    value = "Hello, World!"
+}

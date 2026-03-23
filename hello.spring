@@ -1,0 +1,6 @@
+// Spring Boot - Hello World
+@RestController
+public class Hello {
+    @GetMapping("/")
+    public String hello() { return "Hello, World!"; }
+}

@@ -1,0 +1,13 @@
+swagger: "2.0"
+info:
+  title: Hello API
+  version: "1.0"
+paths:
+  /hello:
+    get:
+      responses:
+        200:
+          description: Hello message
+          schema:
+            type: string
+            example: Hello, World!

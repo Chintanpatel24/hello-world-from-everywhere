@@ -1,0 +1,4 @@
+Thue - Hello World
+a::=Hello, World!
+::=
+a

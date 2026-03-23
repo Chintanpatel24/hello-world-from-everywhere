@@ -1,0 +1,5 @@
+{ Turbo Pascal - Hello World }
+program Hello;
+begin
+    Writeln('Hello, World!');
+end.

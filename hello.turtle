@@ -1,0 +1,3 @@
+# Turtle - Hello World
+@prefix ex: <http://example.org/> .
+ex:hello ex:message "Hello, World!" .

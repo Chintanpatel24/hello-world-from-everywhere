@@ -1,0 +1,4 @@
+// htmx - Hello World
+<div hx-get="/hello" hx-trigger="load">
+    Loading...
+</div>

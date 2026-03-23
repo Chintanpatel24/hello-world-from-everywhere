@@ -1,0 +1,6 @@
+// Inko - Hello World
+class async Main {
+    fn async main() {
+        Stdout.print("Hello, World!")
+    }
+}

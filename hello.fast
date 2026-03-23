@@ -1,0 +1,4 @@
+// Fast - Hello World
+import { FASTElement, customElement, html } from '@microsoft/fast-element';
+@customElement({ name: 'hello-world', template: html`<h1>Hello, World!</h1>` })
+export class HelloWorld extends FASTElement {}

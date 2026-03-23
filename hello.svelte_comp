@@ -1,0 +1,5 @@
+// Svelte (component) - Hello World
+<script>
+    console.log('Hello, World!');
+</script>
+<h1>Hello, World!</h1>

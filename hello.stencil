@@ -1,0 +1,8 @@
+// Stencil - Hello World
+import { Component } from '@stencil/core';
+@Component({ tag: 'hello-world' })
+export class HelloWorld {
+    render() {
+        return <h1>Hello, World!</h1>;
+    }
+}

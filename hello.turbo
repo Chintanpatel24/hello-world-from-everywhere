@@ -1,5 +1,4 @@
-{ Turbo Pascal - Hello World }
-program Hello;
-begin
-    Writeln('Hello, World!');
-end.
+// Hotwire Turbo - Hello World
+<turbo-frame id="hello">
+    Hello, World!
+</turbo-frame>

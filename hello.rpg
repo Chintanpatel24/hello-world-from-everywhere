@@ -1,0 +1,4 @@
+// RPG - Hello World
+H DFTACTGRP(*NO)
+OQSYSPRT H    1
+O                   'Hello, World!'

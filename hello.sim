@@ -1,0 +1,5 @@
+! Simula - Hello World
+Begin
+    OutText("Hello, World!");
+    OutImage;
+End;

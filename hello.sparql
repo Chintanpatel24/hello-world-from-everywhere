@@ -1,0 +1,6 @@
+# SPARQL - Hello World
+SELECT ?message
+WHERE {
+    ?s <http://example.org/message> ?message .
+    FILTER(?message = "Hello, World!")
+}

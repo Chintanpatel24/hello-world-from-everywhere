@@ -1,0 +1,3 @@
+#!/bin/rc
+# rc shell - Hello World
+echo Hello, World!
